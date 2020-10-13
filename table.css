@@ -1,0 +1,64 @@
+body {
+    background-color: #ceccc863;
+}
+
+table {
+    line-height: 1.46;
+    font-family: sans-serif;
+    width: 700px;
+    padding: 10px;
+    margin: auto;
+    background-color: white;
+    border-radius: 11px;
+}
+
+table th {
+    border-top: 1px dashed silver;
+    width: 80px;
+    overflow: hidden;
+    line-height: inherit;
+}
+
+.half-time {
+    color: #00000052;
+}
+
+table td {
+    font-size: 9px;
+    padding-left: 5px;
+    border-radius: 4px;
+}
+
+strong {
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+.break {
+    background-color: #25c7da;
+}
+
+.facebook {
+    background-color: #1976d2;
+    text-align: center;
+}
+
+.venus {
+    background-color: #ff8a66;
+}
+
+.mercury {
+    background-color: #9dcc65;
+}
+
+.mars {
+    background-color: #b3e5fd;
+}
+
+.earth {
+    background-color: #ffa726;
+}
+
+.jupiter {
+    background-color: #81d5fa;
+}
